@@ -1,0 +1,33 @@
+{
+    "users": [{
+            "id": 69230304,
+            "firstName": "Rollin",
+            "lastName": "Mertz",
+            "email": "Eunice16@hotmail.com"
+        },
+        {
+            "id": 21478360,
+            "firstName": "Sydni",
+            "lastName": "Dach",
+            "email": "Shaina_Terry50@gmail.com"
+        },
+        {
+            "id": 99938181,
+            "firstName": "Zachery",
+            "lastName": "Waelchi",
+            "email": "Herminia_Schumm31@gmail.com"
+        },
+        {
+            "id": 53173645,
+            "firstName": "Patsy",
+            "lastName": "Heathcote",
+            "email": "Bennie.Yundt@yahoo.com"
+        },
+        {
+            "id": 13242344,
+            "firstName": "Trycia",
+            "lastName": "Brakus",
+            "email": "Eleanore_Franecki90@gmail.com"
+        }
+    ]
+}
